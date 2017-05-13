@@ -428,3 +428,57 @@
 	margin-left: 420px;
 	font-size: 24px;
 }
+
+/* Contenedores VIDEOS1*/
+.contnsiete
+{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.siete {
+	position: relative;
+	color: #000;
+}
+
+.siete article {
+padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+	margin-top: 50px;
+	
+}
+
+.siete article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+}
+
+/*Contenedores VIDEOS2*/ 
+.contnocho
+{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.ocho {
+	position: relative;
+	color: #000;
+}
+
+.ocho article {
+padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+	margin-top: 50px;
+	
+}
+
+.ocho article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+}
